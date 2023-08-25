@@ -1,0 +1,11 @@
+:root {
+    --main-color: blueviolet;
+}
+
+header {
+    color: var(--main-color);
+}
+
+.box {
+    color: var(--main-color);
+}
